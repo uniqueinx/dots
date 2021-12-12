@@ -1,0 +1,11 @@
+# Disable the package module, hiding it from the prompt completely
+[gcloud]
+disabled = true
+# [python]
+# disabled = true
+# [nodejs]
+# disabled = true
+
+[character]
+success_symbol = "[ﬦ](bold 220)"
+error_symbol = "[ﬦ](bold red)"
